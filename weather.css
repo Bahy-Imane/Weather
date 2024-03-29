@@ -1,43 +1,10 @@
-*{
-	padding:0px;
-	margin:0px;
-	box-sizing: border-box;
-	text-decoration: none;
-	font-family: "normal";
-
-}
-body{
-	background-image:url("meteo1.jpg");
-    min-height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    opacity: 100px;
-}
-
-.searchbar{
-	margin-top: 20px;
-    height: 25px;
-    background-color: #ffffff;
-    border-radius: 30px;
-   
-    }
-
-    .search_input{
-    color: rgb(0, 0, 0);
-    border: 0;
-    outline: 0;
-    background: none;
-	padding: 2px 30px;
-    width: 240px;
-    caret-color:rgb(0, 0, 3);
-    
-    
-    }
 
 
-    .weather-box{
-        text-align: center;
-        margin: 30px 0;
-    }
-    
-   
+body {
+    background-image: url('meteo1.jpg');
+     background-size: cover;
+     height: 100vh;
+ }
+ 
+ 
+ 
