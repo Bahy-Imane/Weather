@@ -81,4 +81,5 @@ async function fetchAndDisplayWeather() {
     }
 }
 
+
 fetchAndDisplayWeather();
